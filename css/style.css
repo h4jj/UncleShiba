@@ -927,9 +927,9 @@ body {
         font-size: 35px;
     }
 
-    .form-title.mobile {
+    /* .form-title.mobile {
         font-size: 22px;
-    }
+    } */
 
     .lower-three-intro.mobile {
         font-size: 17px;
@@ -951,9 +951,9 @@ body {
         grid-template-rows: 0.8fr 3fr;
     }
 
-    .form.tablet {
+    /* .form.tablet {
         grid-template-rows: 1fr 1fr 4fr 0.3fr;
-    }
+    } */
 
     .connect-main-container.tablet {
         margin-top: 100px;
@@ -1168,6 +1168,7 @@ body {
     width: 100%;
     color: rgba(255,255,255,0.7);
     text-shadow: 1px 1px rgba(170, 43, 255, 0.7);
+    grid-row: 
 }
 
 .form-title {
@@ -1186,7 +1187,7 @@ body {
     grid-row: 2/3;
     grid-column: 2/3;
     display: grid;
-    grid-template-rows: 1fr 1fr 4fr;
+    grid-template-rows: 1fr 1fr 4fr 1fr;
 }
 
 .form-submit {
@@ -1229,19 +1230,19 @@ body {
 }
 
 /* .form-row-one {
-    grid-row: 2/3;
+    grid-row: 1/2;
     grid-column: 2/3;
 }
 
 .form-row-two {
-    grid-row: 3/4;
+    grid-row: 2/3;
     grid-column: 2/3;
 }
 
 .form-row-three {
     grid-row: 4/5;
     grid-column: 2/3;
-} */
+}  */
 
 .gmail {
     background-color: rgba(170, 43, 255, 0.9);
