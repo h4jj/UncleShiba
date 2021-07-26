@@ -987,7 +987,7 @@ body {
 }
 
 .connect-main-container {
-    height: 940px;
+    height: 1040px;
     width: 100%;
     display: grid;
     grid-template-columns: 13vw 1fr 13vw;
@@ -1243,6 +1243,13 @@ body {
     grid-row: 4/5;
     grid-column: 2/3;
 }  */
+
+.form-row-four {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: center;
+}
 
 .gmail {
     background-color: rgba(170, 43, 255, 0.9);
