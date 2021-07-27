@@ -1,0 +1,103 @@
+<div class="about-title-container tablet">
+                    <h1 class="about-title mobile">
+                        The Recipe For Success
+                    </h1>
+                    <p class="about-title-item mobile">
+                        Bullet-Proof Tokenomics
+                    </p>
+                </div>
+                <div class="about-upper-container tablet">
+                    <div class="about-upper-one tablet">
+                        <p class="about-numbering">
+                            01
+                        </p>
+                        <p class="about-title-text">
+                            15% Buy Tax
+                        </p>
+                        <p class="about-text-one">
+                            12% Will be directed towards Uncle Shiba's BuyBack Wallet and 3% will go to the marketing wallet.
+                        </p>
+                    </div>
+                    <div class="about-upper-two tablet">
+                        <p class="about-numbering">
+                            02
+                        </p>
+                        <p class="about-title-text">
+                            25% Sell Tax
+                        </p>
+                        <p class="about-text-one">
+                            Having a high sell tax de-incentivizes people to sell. 21% will go to Uncle Shiba's BuyBack wallet and 4% will go to the marketing wallet.
+                        </p>
+                    </div>
+                </div>
+                <div class="about-mid-container tablet mobile">
+                    <p class="about-numbering mobile">
+                        03
+                    </p>
+                    <div class="about-title-text-container">
+                        <p class="about-title-text tablet" id="kraken">
+                            Uncle Shiba's Buyback Wallet & Dynamic Tax Protocol
+                        </p>
+                    </div>
+                    <div class="mid-text-container tablet">
+                        <!-- <div class="mid-first-section">
+                            <p class="section-title tablet">
+                                The Issue At Stake
+                            </p>
+                            <div class="shiba-logo-one-container">
+                                <img src="./images/Shiba Graphic 1.svg" alt="" class="shiba-logo-one">
+                            </div>                            
+                            <p class="section-text">
+                                The current issue with Buyback tokens is that these tokens get artificially pumped are unable to sustain the new price floor that it lands on, due to this issue we see a lot of people selling at the peaks and thus creating an even bigger dump, this is where Uncle Shiba aims to work on something that we believe to have untapped potential. 
+                            </p>
+                        </div> -->
+
+                        <!-- <div class="mid-first-section">
+                            <p class="section-title">
+                                Uncle Shiba's BuyBack Wallet
+                            </p>
+                            <div class="shiba-logo-one-container">
+                                <img src="./images/Shiba Graphic 2.svg" alt="" class="shiba-logo-one">
+                            </div>                             
+                            <p class="section-text">
+                                The current issue with Buyback tokens is that these tokens get artificially pumped are unable to sustain the new price floor that it lands on, due to this issue we see a lot of people selling at the peaks and thus creating an even bigger dump, this is where Uncle Shiba aims to work on something that we believe to have untapped potential. 
+                            </p>
+                        </div>
+
+                        <div class="mid-first-section">
+                            <p class="section-title">
+                                Dynamic Tax Protocol
+                            </p>
+                            <div class="shiba-logo-one-container special">
+                                <img src="./images/Shiba Graphic 3.svg" alt="" class="shiba-logo-one">
+                            </div>                             
+                            <p class="section-text">
+                                The current issue with Buyback tokens is that these tokens get artificially pumped are unable to sustain the new price floor that it lands on, due to this issue we see a lot of people selling at the peaks and thus creating an even bigger dump, this is where Uncle Shiba aims to work on something that we believe to have untapped potential. 
+                            </p>
+                        </div> -->
+                    </div>
+                </div>
+                <div class="about-lower-container tablet">
+                    <div class="about-lower-one tablet">
+                        <p class="about-numbering">
+                            04
+                        </p>
+                        <p class="about-title-text">
+                            Hype Marketing
+                        </p>
+                        <p class="about-text-one">
+                            All marketing funds will go towards influencers that will aid in spreading the word about Uncle Shiba 
+                        </p>
+                    </div>
+                    <div class="about-lower-two tablet">
+                        <p class="about-numbering">
+                            05
+                        </p>
+                        <p class="about-title-text">
+                            Enjoy The Ride
+                        </p>
+                        <p class="about-text-one">
+                            Uncle Shiba's Dynamic Tax Protocol alongside the buyback wallet is truly one of it's kind, we're here to take you on a ride so buckle up.
+                        </p>
+                    </div>
+                </div>
