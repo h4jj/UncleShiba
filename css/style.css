@@ -7,7 +7,7 @@
 }
 
 body {
-    background-image: url(../images/space-background-with-planet-landscape/4Z_2104.w028.n002.36B.p30.36.jpg);
+    background-image: url(../images/space-art-5626848_1920.jpg);
     background-attachment: fixed;
     background-size: cover;
     background-repeat: no-repeat;
@@ -330,7 +330,7 @@ body {
     margin-top: 20px;
     text-align: center;
     color: rgba(255,255,255,0.6);
-    text-shadow: 5px 5px rgba(170, 43, 255, 0.5);
+    text-shadow: 2px 2px rgba(170, 43, 255, 0.5);
     letter-spacing: 3px;
     line-height: 1.1em;
     font-size: 22px;
