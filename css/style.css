@@ -572,7 +572,7 @@ body {
     }
 
     .about-text-one.mobile {
-        font-size: 19px;
+        font-size: 17px;
     }
 
     .about-title.mobile {
@@ -701,8 +701,8 @@ body {
     text-align: center;
     font-size: 17px;
     color: rgba(255,255,255,0.7);
-    margin-left: 40px;
-    margin-right: 40px;
+    margin-left: 30px;
+    margin-right: 30px;
 
 }
 
@@ -721,7 +721,7 @@ body {
     }
 
     .about-main-container.tablet {
-        height: 4300px;
+        height: 3700px;
     }
     
     .about-upper-container.tablet {
