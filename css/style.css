@@ -13,11 +13,6 @@ body {
     background-repeat: no-repeat;
 }
 
-@media screen and (max-width: 370px) {
-    body.tablet {
-        background-size: contain;
-    }
-}
 
 /* navbar */
 
