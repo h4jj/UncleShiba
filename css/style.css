@@ -17,6 +17,7 @@ body {
     body.tablet {
         background-image: url(../images/vertical\ space\ art.jpg);
         background-size: contain;
+        background-attachment: fixed;
     }
 }
 
