@@ -372,7 +372,7 @@ body {
 
 .hero-upper-text {
     color: rgba(255,255,255,0.7);
-    text-shadow: 5px 5px rgba(170, 43, 255, 0.7);
+    text-shadow: 2px 2px rgba(170, 43, 255, 0.7);
     text-align: center;
     font-size: 80px;
     line-height: 1.3em;
@@ -490,7 +490,7 @@ body {
 .about-title-text {
     text-align: center;
     color: rgba(255,255,255,0.7);
-    text-shadow: 3px 3px rgba(170, 43, 255, 0.9);
+    text-shadow: 2px 2px rgba(170, 43, 255, 0.9);
     font-size: 30px;
     display: flex;
     flex-direction: row;
@@ -562,7 +562,7 @@ body {
     color: #ffffffb3;
     font-family: Jost-ExBold;
     font-size: 50px;
-    text-shadow: 5px 5px rgba(170, 43, 255, 0.7);
+    text-shadow: 2px 2px rgba(170, 43, 255, 0.7);
     text-align: center;
     
 }
@@ -830,7 +830,7 @@ body {
     align-items: center;
     justify-content: center;
     grid-column: 2/3;
-    text-shadow: 3px 3px rgba(170, 43, 255, 0.9);
+    text-shadow: 2px 2px rgba(170, 43, 255, 0.9);
 }
 
 .roadmap-title-container {
@@ -846,7 +846,7 @@ body {
     color: rgba(255,255,255,0.7);
     font-size: 50px;
     font-family: Jost-ExBold;
-    text-shadow: 5px 5px rgba(170, 43, 255, 0.7);
+    text-shadow: 2px 2px rgba(170, 43, 255, 0.7);
     text-align: center;
 }
 
@@ -1099,7 +1099,7 @@ body {
 .connect-title {
     color: rgba(255,255,255,0.7);
     font-size: 50px;
-    text-shadow: 4px 4px rgba(170, 43, 255, 0.9);
+    text-shadow: 2px 2px rgba(170, 43, 255, 0.9);
     text-align: center;
 }
 
