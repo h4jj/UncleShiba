@@ -3,6 +3,7 @@
     padding: 0;
     margin: 0;
     font-family: Jost-Regular;
+    
 }
 
 body {
@@ -188,6 +189,7 @@ body {
     .hero-main-container.tablet.mobile {
         height: 700px;
         grid-template-rows: 30px 1fr 70px;
+        overflow-x: hidden;
     }
 
     .button-text.mobile {
