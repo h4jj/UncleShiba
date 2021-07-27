@@ -28,6 +28,10 @@ body {
         display: block;
     }
 
+    .navbar-container.mobile {
+        max-width: 100vw;
+    }
+
 }
 
 .navbar-mobile-icon-open {
