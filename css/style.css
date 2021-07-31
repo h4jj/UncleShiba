@@ -13,7 +13,23 @@ body {
     background-repeat: no-repeat;
 }
 
-@media screen and (max-width: 1000px) {
+.loading {
+    height: 100vh;
+    width: 100vw;
+    background-color: rgba(0,0,0,0.7);
+    position: fixed;
+    z-index: 11000;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.loaded {
+    display: none;
+}
+
+@media screen and (max-width: 600px) {
     .bodytablet {
         background-image: url(../images/vertical\ space\ art.jpg);
         background-size: contain;
@@ -23,6 +39,8 @@ body {
 }
 
 /* navbar */
+
+
 
 
 @media screen and (max-width: 1200px) {
@@ -436,6 +454,7 @@ body {
     color: rgba(255,255,255,0.7);
     font-size: 25px;
     font-family: Roboto-Regular;
+    text-decoration: none;
 }
 
 .hero-svg {
@@ -1240,6 +1259,7 @@ body {
     align-items: center;
     justify-content: center;
     height: 100%;
+    text-decoration: none;
     cursor: pointer;
 }
 
