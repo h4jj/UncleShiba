@@ -238,6 +238,7 @@ body {
     font-family: Roboto-Regular;
     text-shadow: 2px 2px rgba(170, 43, 255, 0.8);
     text-decoration: none;
+    transition: 0.3s ease-in-out;
 }
 
 
@@ -484,6 +485,7 @@ body {
     align-items: center;
     justify-content: center;
     box-shadow: 2px 3px 4px 8px rgba(170, 43, 255, 0.5);
+    transition: 0.3s ease-in-out
 
 }
 
